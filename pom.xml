@@ -12,6 +12,7 @@
     <modules>
         <module>java-17</module>
         <module>jvm</module>
+        <module>java-error</module>
     </modules>
 
 </project>
